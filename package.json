@@ -1,0 +1,16 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "maping",
+  "main": "script.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "leaflet": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murad",
+  "license": "ISC"
+}
